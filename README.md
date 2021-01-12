@@ -15,7 +15,7 @@ Define connection details with environment variables.
 - Clone this repo
 - These envariable variables should be set:
   ```
-  ES_PASSWORD_MON, ES_PASSWORD_DEV, ES_PASSWORD_STG, ES_PASSWORD_PROD <br/>
+  ES_PASSWORD_MON, ES_PASSWORD_DEV, ES_PASSWORD_STG, ES_PASSWORD_PROD
   ES_URL_MON, ES_URL_DEV, ES_URL_STG, ES_URL_PROD
   SLACK_TOKEN
   SLACK_CHANNEL
