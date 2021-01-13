@@ -1,4 +1,4 @@
-<h1> Monitoring Elasticsearch clusters </h1>
+<h2> Monitoring Elasticsearch clusters and more</h2>
 This is a simple poller that uses Elastic API. <br/>
 It checks status of Elasticsearch cluster(s), notifies Slack if it is not green, and sends metrics to CloudWatch. <br/>
 
