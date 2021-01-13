@@ -28,7 +28,7 @@ Define connection details with environment variables.
     `export SLACK_TOKEN=$(security find-generic-password -w -a "${USER}" -s "SLACK_TOKEN")`
 
 - Build and run the app  
-    `go build -o elastic-monitor && ./elastic-monitor`   
+    `go build -o es-monitor && ./es-monitor`   
 
 <h2> For testing: </h2>
 
